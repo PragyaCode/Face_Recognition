@@ -1,4 +1,4 @@
-# Face_Recognition
+# Project: Face_Recognition 
 
 AI-Enchanced Facial Recognition for Smart Attendance
 —This research offers a solution to the attainment
