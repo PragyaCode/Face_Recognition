@@ -64,6 +64,7 @@ and recording wirelessly through the face recognition. The
 method is divided into three key parts: student verification via
 face detection, face recognition matching, and saving
 attendance records with the input of the date and time.
+
 A. Face Detection
 One of the key features of this system that facilitates its
 function is face_recognition library. It first identifies a video
@@ -73,6 +74,7 @@ library then stores the co-ordinates of different faces of frame
 when the tracking at frame level is over and then we skip the
 tracking of faces which are not in the range of relevance which
 thus saves CPU time and processing time.
+
 B. Face Recognition Matching
 The system then reads a face, captures and processes the
 facial features to generate a digital portrait of the face in
@@ -108,11 +110,14 @@ monitoring systems. This way, the system becomes errorless,
 more precise, and as accurate as human beings can be,
 something that cannot be guaranteed with traditional handmade
 procedures.
+
+
 III. SYSTEM REQUIREMENTS
 The designed AI-based facial recognition attendance system
 can operate effectively if its hardware and software
 requirements are met and it incorporates required functional and
 non-functional characteristics.
+
 A. Hardware Requirements
  Desktop or Laptop: An excellent desktop or portable
 laptop, capable of handling the computational power
@@ -122,12 +127,14 @@ system, must be available.
 necessary to get a video of high quality, which is
 important for face detection as well as recognition at
 the same time.
+
 B. Software Requirements
  Operating System Compatibility:
  Windows: Version 8 and above.
  Linux Kernel: 2.6.24 and above.
  MacOS: Version 11 (Big Sur) or above.
  Ubuntu: This is version 20.04 (Focal Fossa) and above.
+
 C. Dependencies
  Python: A Python programming environment is needed
 to run the codes and handle the libraries.
@@ -146,6 +153,7 @@ the facial recognition process.
  cmake: This is a prerequisite for building dlib library
 from scratch, ensuring smooth transition to Python
 environments.
+
 D. Functional Requirements
  User Management: The system should be equipped
 with such capability that by which the administration
@@ -159,6 +167,7 @@ login.
 capturing and storing the data: data includes IDs and
 time stamps, with special care taken to avoid storing
 the wrong data.
+
 E. Non-Functional Requirements
  Flexibility: The system needs to be designed in a way
 that permits simple adjustments and modifications
@@ -176,6 +185,8 @@ without affecting the system's functionality in general.
  Performance: It must be able to operate at a high
 processing speed with very little latency in order to
 maintain real-time recognition and recording of events.
+
+
 IV. EXISTING METHODS
  In the current contour space of facial recognition
 technologies, multiple techniques and algorithms are being
@@ -212,6 +223,8 @@ for a synergetic combination that amplifies the unique strengths
 of both libraries, making the proposed model not just
 conceptually applicable, but also highly competent in real-world
 uses.
+
+
 VI. RESULTS
  The results of the smart attendance system application are
 seemingly encouraging since they are validated through the
@@ -225,6 +238,8 @@ of the face recognition algorithm. The attendance log is able to
 record information about who comes and goes and from what
 time to the other time, proving the trustworthiness and
 effectiveness of the system in the school environment.
+
+
 VII. FUTURE SCOPE
 In regard to future the smart attendance system keeps
 expanding and scaling up. One of the most significant elements
@@ -242,6 +257,8 @@ implementation of such system in other institutional and
 corporate environments. It is with further development of the
 system and a higher degree of integration that the system would
 set new records in this age of digital technology.
+
+
 VIII.CONCLUSION
 The replacement of conventional attendance tracking
 approach with intelligent AI-driven tracking system marks a
