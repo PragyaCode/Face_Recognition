@@ -119,11 +119,13 @@ requirements are met and it incorporates required functional and
 non-functional characteristics.
 
 A. Hardware Requirements
- Desktop or Laptop: An excellent desktop or portable
+ Desktop or Laptop: 
+An excellent desktop or portable
 laptop, capable of handling the computational power
 requirements of the real-time face identification
 system, must be available.
- Camera: Being integrated, or external HD cameras are
+ Camera: 
+Being integrated, or external HD cameras are
 necessary to get a video of high quality, which is
 important for face detection as well as recognition at
 the same time.
