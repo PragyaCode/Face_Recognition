@@ -1,7 +1,6 @@
 # Project: Face_Recognition 
 
-AI-Enchanced Facial Recognition for Smart Attendance
-—This research offers a solution to the attainment
+Abstract—This research offers a solution to the attainment
 problems by proposing an automated attendance management
 system using cutting edge AI facial recognition technology. The
 system which utilizes face_recognition and OpenCV libraries for
